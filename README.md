@@ -46,32 +46,47 @@ Quiz-Game-Application/
 1.What does HTML stand for?
 
 ° Hyper Text Markup Language ✅
+
 ° High Text Machine Language
+
 ° Hyper Transfer Markup Language
+
 ° Home Tool Markup Language
 
 2.Which language is used for styling web pages?
 
 ° HTML
+
 ° CSS ✅
+
 ° Java
+
 ° Python
 
 3.Which language is used to make web pages interactive?
 
 ° CSS
+
 ° JavaScript ✅
+
 ° SQL
+
 ° C++
 
 📌Workflow
 
 • Home screen
+
 • Start Quiz
+
 • Display one question at a time
+
 • User selects an answer
+
 • Move to the next question
+
 • Show final score
+
 • Restart Quiz
 
 ✨Future Enhancements
